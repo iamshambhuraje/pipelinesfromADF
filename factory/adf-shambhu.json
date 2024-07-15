@@ -1,0 +1,9 @@
+{
+	"name": "adf-shambhu",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a232dbaa-0f5c-4db4-befa-19d3599764b1",
+		"tenantId": "71a49193-b96f-4bbe-99a0-e3895762f5ad"
+	}
+}
