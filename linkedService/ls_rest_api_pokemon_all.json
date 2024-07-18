@@ -1,0 +1,12 @@
+{
+	"name": "ls_rest_api_pokemon_all",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
