@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-shambhu"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"FileServer1_password": {
+			"value": ""
+		},
+		"ls_adls2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://adlsshambhu100.dfs.core.windows.net/"
+		},
+		"FileServer1_properties_typeProperties_host": {
+			"value": "C:\\ADF Engineer 2023\\SQL\\Actual_Scenarious\\SelfHostedIR"
+		},
+		"FileServer1_properties_typeProperties_userId": {
+			"value": "iamshambhuraje@gmail.com"
+		},
+		"ls_adls2_properties_typeProperties_url": {
+			"value": "https://adlsshambhu100.dfs.core.windows.net/"
+		},
+		"ls_rest_api_pokemon_all_properties_typeProperties_url": {
+			"value": "https://pokeapi.co/api/v2/pokemon"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
